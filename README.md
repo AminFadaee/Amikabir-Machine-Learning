@@ -3,3 +3,6 @@ This repository is where I'll upload all my course homeworks (Prof. Nazerfard Ma
 
 ## HW1
 This homework is designed to familiarize student with linear regression, polynomial regression, closed form regression, regularization and MSE.
+
+## HW2
+This homework is About KNN and Decision Tree Classifiers.
