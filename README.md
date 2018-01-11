@@ -9,3 +9,6 @@ This homework is About KNN and Decision Tree Classifiers.
 
 ## HW3
 This homework is About Logistic Regression, Gaussian Naive Bayes Classifier and Bayesian Networks.
+
+## HW4
+This homework is about support vector machines (GO Vapnik!!) and Adaboost.
