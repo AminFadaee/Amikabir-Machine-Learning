@@ -12,3 +12,6 @@ This homework is About Logistic Regression, Gaussian Naive Bayes Classifier and 
 
 ## HW4
 This homework is about support vector machines (GO Vapnik!!) and Adaboost.
+
+## HW5
+This homework is about clustering algorithms: BDSCAN, KMEANS, HIERARCHICAL CLUSTERING
